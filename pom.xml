@@ -47,7 +47,7 @@
 						<javaVersion>17</javaVersion>
 						<properties>
 							<env>prod</env>
-							<encruptio.key>mulesofttraining</encruptio.key>
+							<encryption.key>mulesofttraining</encryption.key>
 						</properties>
 					</cloudhub2Deployment>
 					<sharedLibraries>
